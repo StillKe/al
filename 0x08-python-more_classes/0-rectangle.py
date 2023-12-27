@@ -2,5 +2,5 @@
 """ rectangle class documentation"""
 
 class Rectangle:
-    """ initializes an empty rectangle cl;ass """
-    pass
+        """ initializes an empty rectangle cl;ass """
+            pass
