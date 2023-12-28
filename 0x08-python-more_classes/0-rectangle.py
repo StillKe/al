@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-""" rectangle class documentation"""
+"""rectangle class documentation"""
+
 
 class Rectangle:
-        """ initializes an empty rectangle cl;ass """
-            pass
+    """Initializes an empty rectangle class"""
+
+    pass
